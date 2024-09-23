@@ -47,8 +47,17 @@ This project analyzes DNA methylation patterns in Myelodysplastic Syndrome (MDS)
 - Violin plots showing methylation distribution across patient groups
 - Significant genomic bins (100kb) with differential methylation between responders and non-responders
 
-## Usage
-1. Ensure all dependencies are installed
-2. Place input files in the appropriate directories (DMR files, CpG island files, TSS files)
-3. Run the main script: `python methylation_analysis.py`
-4. Results will be generated in the `/Results` directory
+## How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/mpo05/MeD-seq-analysis/.git
+   ```
+2. Install the required dependencies.
+3. Open the notebook using Jupyter:
+   ```bash
+   jupyter notebook methylation_analysis.ipynb
+   ```
+4. Run the cells in the notebook to reproduce the analysis.
+
+
