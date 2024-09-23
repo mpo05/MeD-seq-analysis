@@ -60,4 +60,6 @@ This project analyzes DNA methylation patterns in Myelodysplastic Syndrome (MDS)
    ```
 4. Run the cells in the notebook to reproduce the analysis.
 
+## License
 
+This project is licensed under the MIT License.
