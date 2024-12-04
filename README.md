@@ -34,13 +34,10 @@ This project analyzes DNA methylation patterns in Myelodysplastic Syndrome (MDS)
    - Split chromosomes into 100kb bins
    - Assign methylation data to corresponding genomic bins
 
-7. **Circos Plot Generation**
-   - Generates a Circos Plot that shows the whole methylome of responders and non responders
-
 ## Scripts and Outputs
 
 ### Main Script
-- `methylation_analysis.ipynb`: Contains all data processing and analysis functions
+- `MeD_seq_methylation_analysis.ipynb`: Contains all data processing and analysis functions
 
 ### Key Outputs
 - Weighted mean methylation by chromosome
