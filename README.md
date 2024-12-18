@@ -1,4 +1,4 @@
-# Analysis of the methylation profile of Myelodysplastic Syndrome patients pre and port HMA treatment
+# Analysis of the methylation profile of Myelodysplastic Syndrome patients pre and post HMA treatment
 
 ## Overview
 
